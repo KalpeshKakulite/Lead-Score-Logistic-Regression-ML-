@@ -43,7 +43,7 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 
 **Credit:** Kshitiz Thakur
 
-![image](https://user-images.githubusercontent.com/90130378/161400231-e853d49f-79a6-4174-bf2b-134867119d53.png)
+![image](https://user-images.githubusercontent.com/90130378/161400311-921eca76-aec2-4cb7-a0a6-f8180f474c0c.png)
 ![image](https://user-images.githubusercontent.com/90130378/161400248-6b366350-0a4f-48c0-93a9-d3c42009cc57.png)
 
 
