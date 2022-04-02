@@ -40,3 +40,5 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 5. ROC Curve Area= 0.85
 6. Precision: TP / TP + FP= 0.7602339181286549
 7. Recall: TP / TP + FN= 0.6759098786828422
+
+**Credit:** Kshitiz Thakur
