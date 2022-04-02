@@ -42,3 +42,8 @@ Build a logistic regression model to assign a lead score between 0 and 100 to ea
 7. Recall: TP / TP + FN= 0.6759098786828422
 
 **Credit:** Kshitiz Thakur
+
+![image](https://user-images.githubusercontent.com/90130378/161400231-e853d49f-79a6-4174-bf2b-134867119d53.png)
+![image](https://user-images.githubusercontent.com/90130378/161400248-6b366350-0a4f-48c0-93a9-d3c42009cc57.png)
+
+
